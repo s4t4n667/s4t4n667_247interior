@@ -9,7 +9,7 @@ Changes:
 - moved a few items in the office area (for RP purposes)
 - removed fan and chair from behind the counter (often got in the way)
 
-**Documentation:** [Click Here](https://s4t4n667.gitbook.io/asgaard-developments/free-scripts/s4t4n667_cinematicbars)
+<img width="1920" height="1080" alt="5235e8c51a7c413a5a971467b48f769140f1e614" src="https://github.com/user-attachments/assets/5d8e0b42-cfb6-4f7e-9d72-bf2db1961cf0" />
 
 ## Asgaard Developments
 Join the Discord: [Click Here](https://discord.gg/eFsB5ZFxeq)
